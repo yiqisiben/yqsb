@@ -9,7 +9,7 @@ print(date_now)
 os.system('ls')
 os.system('pwd')
 time.sleep(60)
-Zsime.sleep(60)
+sime.sleep(60)
 
 
 
