@@ -9,7 +9,7 @@ print(date_now)
 os.system('ls')
 os.system('pwd')
 time.sleep(60)
-sime.sleep(60)
+isime.sleep(60)
 
 
 
