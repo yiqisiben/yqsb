@@ -8,7 +8,7 @@ date_now = datetime.datetime.now()
 print(date_now)
 os.system('ls')
 os.system('pwd')
-time.sleep(60)
+time.sleep(120)
 ZZsime.sleep(60)
 
 
