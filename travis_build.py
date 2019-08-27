@@ -6,7 +6,6 @@ import time
 import os
 date_now = datetime.datetime.now()
 print(date_now)
-os.system('ls')
 os.system('pwd')
 time.sleep(30)
 
