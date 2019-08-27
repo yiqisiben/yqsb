@@ -7,7 +7,6 @@ import os
 date_now = datetime.datetime.now()
 print(date_now)
 os.system('pwd')
-fffos.system('pwd')
 
 
 
