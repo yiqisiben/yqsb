@@ -7,7 +7,5 @@ import os
 date_now = datetime.datetime.now()
 print(date_now)
 os.system('pwd')
-
-
-
-111111\n
+111111 
+111111
